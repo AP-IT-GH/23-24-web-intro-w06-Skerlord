@@ -4,21 +4,21 @@
 
 ### `index.html` openen
 
- - [ ] Open het bestand genaamd [`index.html`](index.html).
+ - [x] Open het bestand genaamd [`index.html`](index.html).
 
 ### `contact.html` aanmaken
 
- - [ ] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
+ - [x] Maak een nieuw bestand genaamd [`contact.html`](contact.html).
 
 ### head
 
-- [ ] Laad in de head de correcte links in voor Bootstrap.
-- [ ] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
+- [x] Laad in de head de correcte links in voor Bootstrap.
+- [x] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
 
 ### bekijk de Bootstrap cheatsheet
 
-- [ ] Open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
-- [ ] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
+- [x] Open de [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/). Gebruik de dev-tools van je browser om de elementen te inspecteren.
+- [x] Open de [Bootstrap icons](https://icons.getbootstrap.com/). Klik op een icoontje om te leren hoe je het icoontje gebruikt op een Bootstrap-webpagina.
 
 ### voorbeeld namaken
 
